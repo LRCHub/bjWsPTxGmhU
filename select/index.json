@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ノートの中のテラリウム (GAME VERSION)",
+  "base_artist": "久川凪 (CV: 立花日菜)、森久保乃々 (CV: 高橋花林)",
+  "createdAt": "2026-02-06T17:36:04.606446Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ノートの中のテラリウム (M@STER VERSION)",
+      "artist": "久川凪(立花日菜),森久保乃々(高橋花林)",
+      "has_synced": false,
+      "path": "select/pl_01_ノートの中のテラリウム_(M@STER_VERSION)_久川凪(立花日菜),森久保乃々(高橋花林).txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ノートの中のテラリウム (GAME VERSION)",
+      "artist": "久川凪(立花日菜),森久保乃々(高橋花林)",
+      "has_synced": false,
+      "path": "select/pl_02_ノートの中のテラリウム_(GAME_VERSION)_久川凪(立花日菜),森久保乃々(高橋花林).txt"
+    }
+  ]
+}
